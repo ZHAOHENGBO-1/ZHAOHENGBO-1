@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## I’m currently learning Software Engineering
-
+## I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
 <!--
 **ZHAOHENGBO-1/ZHAOHENGBO-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
